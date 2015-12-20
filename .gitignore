@@ -1,0 +1,3 @@
+*.credentials
+**/*.box
+**/packer_cache
